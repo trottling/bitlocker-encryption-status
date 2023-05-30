@@ -45,7 +45,8 @@ Here's an example to help you understand the script's output:
     ================================================== 
     
     ================================================== 
-    Drive F: Encryption status for F: not available 
+    Drive F: 
+    Encryption status for F: not available 
     ==================================================
 
 In the above example, the script displays the encryption status for drive V, which is 97.85% encrypted. However, the encryption status for drive F is not available.
