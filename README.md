@@ -62,7 +62,7 @@ In the above example, the script displays the encryption status for drive V, whi
 -   The script clears the output after two iterations to keep the display clean and concise. If you want to change the number of iterations before clearing the output, modify the `iteration` variable in the code.
 
 ## Acknowledgements
-This scrpt was made possible with the assistance of [ChatGPT](https://openai.com/product/chatgpt), a language model developed by [OpenAI](https://openai.com/). ChatGPT provided guidance and assistance in developing the code logic and addressing specific requirements.
+This was made possible with the assistance of [ChatGPT](https://openai.com/product/chatgpt), a language model developed by [OpenAI](https://openai.com/). ChatGPT provided guidance and assistance in developing the code logic and addressing specific requirements.
     
 
 ## License
