@@ -23,17 +23,13 @@ This library allows you to get the encryption status of BitLocker-protected driv
 
 ## Example
 
-Here's an example to help you understand the script's output:
+`
 
-    ==================================================
-    Drive V:
-    Percentage Encrypted: 97.85%
-    ================================================== 
-    
-    ================================================== 
-    Drive F: 
-    Encryption status for F: not available 
-    ==================================================
+
+
+
+
+`
 
 In the above example, the script displays the encryption status for drive V, which is 97.85% encrypted. However, the encryption status for drive F is not available.
 
@@ -41,7 +37,7 @@ In the above example, the script displays the encryption status for drive V, whi
 
 -   This script uses the `manage-bde` command, which is a Windows-specific command-line tool for managing BitLocker. It not work on non-Windows systems.
     
--   Ensure that you run the script with administrator privileges to access the `manage-bde` command.
+-   Ensure that you run the library funcs with administrator privileges to access the `manage-bde` command.
     
     
 
