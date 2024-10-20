@@ -25,7 +25,16 @@ This library allows you to get the encryption status of BitLocker-protected driv
 
 `
 
+from bitlocker_encryption_status.bitlocker_encryption_status import EncStatus
 
+# Create an instance of the EncStatus class
+enc_status = EncStatus()
+
+# Disc encryption status
+print(enc_status.get_encryption_status(drive= "C:"))
+
+# Disc encryption status in percentage
+print(enc_status.get_encryption_status_percentage(drive= "C:"))
 
 
 
