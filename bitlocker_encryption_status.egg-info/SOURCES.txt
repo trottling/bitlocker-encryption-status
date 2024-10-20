@@ -1,7 +1,0 @@
-LICENSE
-README.md
-setup.py
-bitlocker_encryption_status.egg-info/PKG-INFO
-bitlocker_encryption_status.egg-info/SOURCES.txt
-bitlocker_encryption_status.egg-info/dependency_links.txt
-bitlocker_encryption_status.egg-info/top_level.txt
