@@ -23,7 +23,7 @@ This library allows you to get the encryption status of BitLocker-protected driv
 
 ## Example
 
-`
+```
 
 from bitlocker_encryption_status.bitlocker_encryption_status import EncStatus
 
@@ -38,7 +38,7 @@ print(enc_status.get_encryption_status_percentage(drive= "C:"))
 
 
 
-`
+```
 
 In the above example, the script displays the encryption status for drive V, which is 97.85% encrypted. However, the encryption status for drive F is not available.
 
